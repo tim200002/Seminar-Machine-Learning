@@ -1,1 +1,2 @@
-# Seminar-Machine-Learning
+# Stanford Alpaca - A critical Evaluation
+This paper introduces Alpaca, a novel instruction-tuned language model that aims to challenge established models like ChatGPT. Unlike existing models, Alpaca is openly available, compact in size, and can be trained at a significantly lower cost of just 600\$. Despite its cost-effectiveness, Alpaca strives to deliver comparable performance to ChatGPT. The paper delves into the internal workings of Alpaca and conducts a comprehensive evaluation to determine whether it can match the claims of performance comparable to ChatGPT.
